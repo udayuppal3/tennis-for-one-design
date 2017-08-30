@@ -1,2 +1,2 @@
 # tennis-for-one-design
-A design for tennis for one
+A design for the tennis for one weekly game project
